@@ -1,0 +1,12 @@
+.naranja {color: orange;}
+.azulOscuro {color: darkblue;}
+tr th {font-family: Arial; color: black;}
+tr td  {color: blue;}
+.bordesRedondos {border-radius: 10px}
+table {
+border-collapse: collapse; }
+
+td {font-family: Arial; padding: 8px; background: #e6d7ac; border-bottom: 1px solid black;
+color: black; border-top: 1px solid black;}
+
+fieldset {font-family: Arial; background: #e6d7ac;}

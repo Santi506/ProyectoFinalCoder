@@ -1,0 +1,140 @@
+body {
+  background: #0043a2; }
+
+.posicion {
+  position: relative;
+  top: 0px; }
+
+header {
+  padding-left: 40%;
+  background-color: #002058;
+  background-image: linear-gradient(to top, #002058, #0043a2); 
+}
+
+.banner {
+  padding-left: 28px;
+  margin-bottom: 0px; }
+
+.logo:hover {
+  transform: scale(1.1, 1); }
+
+h2 {
+  padding-left: 45%;
+  font-family: 'Rubik', sans-serif;
+  font-style: italic;
+  font-size: 36px;
+  color: white;
+  text-decoration: underline; }
+
+.menuPrincipal {
+  padding-left: 39%;
+  text-align: justify;
+  font-family: "Rubik", sans-serif;
+  font-size: 20px;
+  word-spacing: 15px;
+  background-color: #0043a2; }
+
+a {
+  text-decoration: none;
+  color: white; }
+
+a:hover {
+  text-decoration: underline;
+  color: lightblue; }
+
+.carrousel {
+  color: black;
+  font-family: "Rubik", sans-serif;
+  margin-left: 380px;
+  height: 500px;
+  width: 600px; }
+
+footer {
+  background-color: #000000;
+  height: 130px; }
+
+.redesSociales {
+  padding-left: 16%;
+  color: white;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 17px;
+  text-align: left;
+  font-weight: lighter; }
+
+.logoFooter {
+  padding-left: 15%; }
+
+.textoFooter {
+  padding-left: 9%;
+  color: white;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 17px;
+  text-align: left;
+  font-weight: lighter;
+  font-style: italic; }
+
+.instagram {
+  text-decoration: underline; }
+
+.listaPrecios {
+  display: flex;
+  padding: 100px 100px 100px 100px;
+  border-style: solid;
+  color: white;
+  font-family: "Rubik", sans-serif;
+  font-size: 20px; }
+
+.link {
+  font-style: italic;
+  text-decoration: underline; }
+
+.blanco {
+  font-family: 'Rubik', sans-serif;
+  color: white;
+  width: 20px;
+  height: 20px; }
+
+.nosotros {
+  color: white;
+  text-align: justify; }
+
+#grid {
+  display: grid;
+  grid-template-columns: 260px 260px 260px 260px 260px;
+  grid-template-rows: 250px;
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+  text-align: center; }
+
+.bordes {
+  border-style: solid;
+  color: white;
+  text-decoration: underline;
+  font-style: italic;
+  font-family: 'Rubik', sans-serif; }
+
+.links {
+  text-decoration: underline;
+  color: white;
+  font-family: 'Rubik', sans-serif; }
+
+.scale {
+  transform: scale(2, 1); }
+
+.instagram:hover {
+  color: lightblue; }
+
+.parrafo {
+  color: black;
+  font-family: 'Rubik', sans-serif;
+  background-color: white; }
+
+.parrafo__fondoGris {
+  color: black;
+  background-color: grey; }
+
+.parrafo--subrayado {
+  text-decoration: underline; }
+
+.parrafo--italic {
+  font-style: italic; }
